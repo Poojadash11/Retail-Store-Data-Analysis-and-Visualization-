@@ -1,0 +1,1 @@
+Conducted ETL analysis on a retail store dataset to visualize customer demographics, product categories and sales distribution using PowerBI. Implemented KPIs like net promoter score to provide actionable insights for improving customer experience and sales strategies.
